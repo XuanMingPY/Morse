@@ -11,6 +11,7 @@
 ---
 ## 執行方法 ##
 - 下載壓縮包 並解壓縮 https://github.com//XuanMingPY/Morse/archive/refs/heads/main.zip
-- 找到 Main.py 如圖  
+- 找到 Main.py 打開 如圖  
 ![mainfile](https://github.com/XuanMingPY/Morse/blob/main/mainpy.jpg)
+
 ---
