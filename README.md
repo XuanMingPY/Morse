@@ -9,3 +9,4 @@
 - 按下 Install Now 
 - 等待安裝 出現以下圖片就是安裝完畢 按下 Close 即可   
 ![install](https://github.com/XuanMingPY/Morse/blob/main/installsuccess.jpg)
+---
