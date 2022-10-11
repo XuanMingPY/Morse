@@ -38,7 +38,7 @@ def returnType(Input):
     return ("." in Input or "-" in Input)
 
 def main():
-    string = str()
+    string = ""
     if MORSE:
         for mrs in Input.split(" "):
             string += CODER.TEXT[CODER.MORSE.index(mrs)]
@@ -47,7 +47,7 @@ def main():
             if text == " ":pass
             else: string += (CODER.MORSE[CODER.TEXT.index(text.upper())] + " ")
     if (Input_ := input(string+"\n複製文字? (y/n)").casefold()) == "y":
-        pyperclip.copy(string)
+        pyperclip.copy(string[:-1])
     elif Input_ == "n":
         pass
     else: raise Exception(f"輸入錯誤指令 > {Input_}")
