@@ -6,6 +6,6 @@
 - 打開安裝程式
 - 勾選 add to path 再按下 Install Now 如圖  
 ![addtopath](https://github.com/XuanMingPY/Morse/blob/main/addtopath.jpg)  
-- 等待安裝 出現以下圖片就是安裝完畢 按下 Close 即可   
+- 等待安裝 出現以下畫面就是安裝完畢 按下 Close 即可   
 ![install](https://github.com/XuanMingPY/Morse/blob/main/installsuccess.jpg)
 ---
