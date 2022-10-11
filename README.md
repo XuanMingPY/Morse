@@ -5,23 +5,23 @@
 - 前往 https://www.python.org/ 下載安裝程式 (python-3.x.x-amd64.exe)
 - 打開安裝程式
 - 勾選 add to path 再按下 Install Now 如圖  
-![addtopath](https://github.com/XuanMingPY/Morse/blob/main/addtopath.jpg)  
+![addtopath](https://github.com/XuanMingPY/Morse/blob/main/image/addtopath.jpg)  
 - 等待安裝 出現以下畫面就是安裝完畢 按下 Close 即可   
-![install](https://github.com/XuanMingPY/Morse/blob/main/installsuccess.jpg)
+![install](https://github.com/XuanMingPY/Morse/blob/main/image/installsuccess.jpg)
 ---
 ## 執行方法 ##
 - 下載壓縮包 並解壓縮 https://github.com//XuanMingPY/Morse/archive/refs/heads/main.zip
 - 找到 Main.py 打開 如圖  
-![mainfile](https://github.com/XuanMingPY/Morse/blob/main/cmd.jpg)
+![mainfile](https://github.com/XuanMingPY/Morse/blob/main/image/cmd.jpg)
 ---
 ## 摩斯電碼轉文字 ##
 - 輸入摩斯電碼 按下enter 會印出文字  
 - 可自由選擇是否複製文字 (輸入y -> 複製 　輸入n -> 不複製)  
 範例:  
-![totext](https://github.com/XuanMingPY/Morse/blob/main/totext.jpg)  
+![totext](https://github.com/XuanMingPY/Morse/blob/main/image/totext.jpg)  
 ---
 ## 文字轉摩斯電碼 ##
 - 輸入文字 按下enter 會印出摩斯電碼  
 - 可自由選擇是否複製摩斯電碼 (輸入y -> 複製 　輸入n -> 不複製)  
 範例:  
-![totext](https://github.com/XuanMingPY/Morse/blob/main/tomorse.jpg)
+![totext](https://github.com/XuanMingPY/Morse/blob/main/image/tomorse.jpg)
