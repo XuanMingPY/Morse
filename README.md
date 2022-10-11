@@ -19,3 +19,8 @@
 - 可自由選擇是否複製文字 (輸入y -> 複製 　輸入n -> 不複製)  
 範例:  
 ![totext](https://github.com/XuanMingPY/Morse/blob/main/totext.jpg)
+## 文字轉摩斯電碼 ##
+- 輸入文字 按下enter 會印出摩斯電碼  
+- 可自由選擇是否複製摩斯電碼 (輸入y -> 複製 　輸入n -> 不複製)  
+範例:  
+![totext](https://github.com/XuanMingPY/Morse/blob/main/tomorse.jpg)
