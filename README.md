@@ -8,4 +8,4 @@
 ![addtopath](https://github.com/XuanMingPY/Morse/blob/main/addtopath.jpg)  
 - 按下 Install Now 
 - 等待安裝 出現以下圖片就是安裝完畢  
-![install]()
+![install](https://github.com/XuanMingPY/Morse/blob/main/installsuccess.jpg)
