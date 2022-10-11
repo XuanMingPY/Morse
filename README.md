@@ -14,3 +14,6 @@
 - 找到 Main.py 打開 如圖  
 ![mainfile](https://github.com/XuanMingPY/Morse/blob/main/cmd.jpg)
 ---
+## 使用方法 ##
+- 摩斯電碼轉文字  
+!
