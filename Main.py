@@ -1,6 +1,15 @@
 # copyright © 2022 XuanMing
 # CYIVS 114030 如有PYTHON愛好者 歡迎交流
 
+import os
+import sys
+
+os.system("pip3 install pyperclip")
+import pyperclip
+
+if (platform := sys.platform).startswith("win32"):os.system("cls")
+elif platform.startswith("aix") or platform.startswith("linux"):os.system("clear")
+
 class CODER(object):
     TEXT = [
         "A", "B", "C", "D", "E",
@@ -37,9 +46,13 @@ def main():
         for text in Input:
             if text == " ":pass
             else: string += (CODER.MORSE[CODER.TEXT.index(text.upper())] + " ")
-    input(string)
+    if (Input_ := input(string+"\n複製文字? (y/n)").casefold()) == "y":
+        pyperclip.copy(string)
+    elif Input_ == "n":
+        pass
+    else: raise Exception(f"輸入錯誤指令 > {Input_}")
 
 if __name__ == "__main__":
     Input = input("text: ")
     MORSE = True if returnType(Input) else False
-    main()
+    string = main()
